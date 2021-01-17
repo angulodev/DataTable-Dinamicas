@@ -1,0 +1,27 @@
+para poder utilizar esta libreria se debe instalar  en el html lo siguiente
+
+
+ejemplo index.html
+
+ <!-- Stilos DataTables -->
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
+
+script
+
+// data table jquery
+  <script type="text/javascript" charset="utf8"
+    src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+
+// jquery del cdn de google
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+// le pones el nombre que quieras
+
+ <script src="tablet.js"></script>
+
+ y despues tu codigo
+
+ 
